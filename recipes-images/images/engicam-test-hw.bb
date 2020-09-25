@@ -62,4 +62,14 @@ CORE_IMAGE_EXTRA_INSTALL += " \
     serialtools \
     \
     test-sound \
+    qtquickcontrols \
+    qtquickcontrols-qmlplugins \
+    qtquickcontrols2 \
+    qtquickcontrols2-qmlplugins \
+    qtcharts \
+    openssh-sftp-server \
+    qtgraphicaleffects-qmlplugins \
+    qtscxml \
+    qtvirtualkeyboard \
+    qtserialbus \
     "
