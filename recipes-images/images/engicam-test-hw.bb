@@ -72,4 +72,5 @@ CORE_IMAGE_EXTRA_INSTALL += " \
     qtscxml \
     qtvirtualkeyboard \
     qtserialbus \
+    qtmodbus \
     "
